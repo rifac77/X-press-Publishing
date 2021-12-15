@@ -1,3 +1,13 @@
+This project was completed as part of Codecademy.com's Web development intensive path. It combines knowledge of servers and middleware to create a tool for a fictional comic book publishing company. See the original project parameters below. To install and run, pull the code and navigate to the project folder. In the command line (git bash) run:
+
+$npm install 
+$npm start
+
+To seed the file with fictional data before starting the server($npm start) run: 
+$node migration.js
+
+(node must already be installed).
+
 # X-Press Publishing
 
 ## Project Overview
