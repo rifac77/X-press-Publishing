@@ -4,6 +4,7 @@ $npm install
 $npm start
 
 To seed the file with fictional data before starting the server($npm start) run: 
+
 $node migration.js
 
 (node must already be installed).
